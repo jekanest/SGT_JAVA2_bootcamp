@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SGT_JAVA2_bootcamp.iml" filepath="$PROJECT_DIR$/SGT_JAVA2_bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../portfolio/portfolio.iml" filepath="$PROJECT_DIR$/../portfolio/portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_project/test_project.iml" filepath="$PROJECT_DIR$/../test_project/test_project.iml" />
     </modules>
   </component>
 </project>
